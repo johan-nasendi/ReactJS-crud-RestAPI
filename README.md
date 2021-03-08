@@ -1,6 +1,6 @@
-Step by Step react js CRUD
+<p>Step by Step react js CRUD</p>
 
-1.composer require laravel/ui
+<p>1.composer require laravel/ui</p>
 2.php artisan ui react
 3.php artisan ui react --auth
 4.npm install
