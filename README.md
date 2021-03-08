@@ -1,15 +1,19 @@
 <p>Step by Step react js CRUD</p>
 
 <p>1.composer require laravel/ui</p>
-2.php artisan ui react
-3.php artisan ui react --auth
-4.npm install
-5.npm run dev
-6.npm run watch
+<p>2.php artisan ui react</p>
+<p>3.php artisan ui react --auth</p>
+ <p>  4.npm install</p>
+ <p> 5.npm run dev </p>
+ <p>6.npm run watch</p>
 
---------------------------------------------------------------------
------------------------------------------------------------------------
 
-Login :
-Password : 12345678
-username : johan_nasendi
+
+
+
+<p> -------------------------------------------------------------------- <br>
+----------------------------------------------------------------------- </p>
+
+<h4>Login :</h4>
+<p>Password : 12345678<br>
+username : johan_nasendi</p>
